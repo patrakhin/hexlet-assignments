@@ -7,15 +7,15 @@ import org.springframework.web.bind.annotation.RestController;
 // BEGIN
 @RestController
 public class WelcomeController {
+
     @GetMapping("/")
-    public String welcomeToSpring(@RequestParam(value = "name", defaultValue = "to Spring") String name){
-        return String.format("Welcome %s!", name);
+    public String welcomeString(){
+        return "Welcome to Spring";
     }
 
-    @GetMapping("/users")
-    public String welcomeUser(@RequestParam(value = "name", defaultValue = "World") String name) {
+    @GetMapping("/hello")
+    public String helloUser(@RequestParam(value = "name", defaultValue = "World") String name){
         return String.format("Hello, %s!", name);
     }
-
 }
 // END
