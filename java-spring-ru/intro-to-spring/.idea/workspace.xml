@@ -4,7 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a5f3816-5ca2-4830-b9e5-69c4e20ccf5c" name="Changes" comment="add sol to task 1" />
+    <list default="true" id="3a5f3816-5ca2-4830-b9e5-69c4e20ccf5c" name="Changes" comment="add sol to task 1">
+      <change afterPath="$PROJECT_DIR$/../migrations/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../migrations/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../migrations/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../migrations/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../migrations/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../migrations/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../migrations/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../migrations/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../migrations/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../migrations/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../migrations/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../migrations/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../migrations/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../migrations/hexlet.mv.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../migrations/hexlet.trace.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,21 +72,21 @@
     <option name="showMembers" value="true" />
     <option name="showVisibilityIcons" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/andrey/Hexlet/hexlet-assignments/java-spring-ru/intro-to-spring",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "spring.configuration.checksum": "d50eb09bd92762617f4d8f0416aa85f6",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/andrey/Hexlet/hexlet-assignments/java-spring-ru/intro-to-spring&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;d50eb09bd92762617f4d8f0416aa85f6&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Gradle.AppTest">
     <configuration name="AppTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
@@ -116,7 +135,9 @@
       <updated>1681984695735</updated>
       <workItem from="1681984698631" duration="1192000" />
       <workItem from="1681996965976" duration="701000" />
-      <workItem from="1682019196859" duration="1735000" />
+      <workItem from="1682019196859" duration="1741000" />
+      <workItem from="1682245922955" duration="81000" />
+      <workItem from="1682368825350" duration="117000" />
     </task>
     <task id="LOCAL-00001" summary="add sol to task 1">
       <created>1682020278302</created>
